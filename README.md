@@ -1,2 +1,3 @@
-# Learning_Data_Science
-# empty readme
+# Learning Data Science
+## Beginning to learn R and git
+
